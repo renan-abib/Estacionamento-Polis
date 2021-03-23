@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">EstacionamentoSensedia</string>
-    <string name="retirar_carro_label">Retirar Carro</string>
-    <string name="devolver_carro_label">Devolver Carro</string>
-    <string name="digite_a_placa_do_carro_label">Digite a placa do carro</string>
-    <string name="bem_vindo_label">Bem-vindo</string>
-    <string name="sistema_de_estacionamento_label">Sistema de estacionamento</string>
-</resources>
